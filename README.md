@@ -8,18 +8,17 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ramzy1453/ramzy1453.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramzy1453&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Ramzy's GitHub Stats" />
+<a href="https://github.com/Amir-Bitam.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Bitam&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Amir's GitHub Stats" />
 </a>
-<a href="https://github.com/ramzy1453/ramzy1453.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzy1453&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+<a href="https://github.com/Amir-Bitam/Amir-Bitam.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Bitam&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
 </a>
 
 
 ## 📲 Social Media Accounts
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ramzy-kemmoun-1a3725237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ramzy KEMMOUN" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/kemmounramZ"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mattnix4&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.linkedin.com/in/mohamed-amir-bitam-017b07202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BITAM Mohamed Amir" height="30" width="40" /></a>
 </p>
 
